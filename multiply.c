@@ -1,4 +1,3 @@
-
 #include<stdio.h>
 void main()
 {
@@ -11,4 +10,3 @@ c=i*a;
 printf("\n %d*%d=%d",i,a,c);
 }
 }
-
